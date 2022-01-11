@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for file in "$@"
+do
+	base="$(basename "${file}")"
+	if [ "${base}" = "${file}" ]
+	then
+		echo "${base} is the same as input" >&2
+		exit 2
+	fi
+	tweaker3 -vb -x -min sur -o "${base}" -i "${file}"
+done
+
