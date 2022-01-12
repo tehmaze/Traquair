@@ -6,10 +6,17 @@ nav_order: 4
 ---
 
 # Bed frame
+{: .no_toc }
 
 ![Bed frame](../asset/build/Bed-frame.png)
 
 This is the print surface of the printer.
+
+# Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Required parts
 
@@ -28,3 +35,7 @@ This is the print surface of the printer.
 | **Printed parts** |||
 | 2      | Z bed mount | ![Z bed mount](../asset/part/z-bed-mount.png) |
 | 3      | Z bed spacer holder | ![Z bed spacer holder](../asset/part/z-bed-spacer-holder.png) |
+
+## Next steps
+
+You can now proceed to building the [motor assemblies](motor.html).

@@ -3,13 +3,21 @@ layout: default
 title: Z frame
 parent: Build instructions
 nav_order: 3
+has_toc: true
 ---
 
 # Z frame
+{: .no_toc }
 
 ![Z frame](../asset/build/z-frame.png)
 
 This is the vertical stage (Z-axis) of the printer.
+
+# Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Required parts
 
@@ -24,3 +32,7 @@ This is the vertical stage (Z-axis) of the printer.
 | 12     | M6x16mm BHCS | ![M6x16 BHCS](../asset/fastener/bhcs-m6x16.png) |
 | **Printed parts** |||
 | 2      | Z motor mount | ![Z Motor mount](../asset/part/z-motor-mount.png) |
+
+## Next steps
+
+You can now proceed to building the [bed frame](bed-frame.html).
