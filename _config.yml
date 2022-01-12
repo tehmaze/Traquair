@@ -33,6 +33,7 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-spaceship
+  - jekyll-remote-theme
 color_scheme: "traquair"
 
 # Exclude from processing.
