@@ -22,8 +22,8 @@ title: Traquair
 email: maze@maze.io
 description: >- # this means to ignore newlines until "baseurl:"
   Traquair is a small-sized crossed grantry 3D-printer.
-baseurl: "/traquair" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://traquair.maze.engineering" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
