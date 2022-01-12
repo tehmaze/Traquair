@@ -1,0 +1,99 @@
+I"�<h1 id="bill-of-materials">Bill of materials</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Amount</th>
+      <th>Item</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>**Extrusions** ||</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2020 aluminium extrusion 200mm</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2020 aluminium extrusion 220mm</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2040 aluminium extrusion 220mm</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>**Linear motion** ||</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>MGN7C linear rails 200mm</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>MGN9C linear rails 200mm</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>5x70mm shaft</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>L16D28 5x5mm corrugated coupler</td>
+      <td>[![AliExpress](asset/vendor/aliexpress.png)](https://s.click.aliexpress.com/e/_9RhBgO) [![AliExpress](asset/vendor/aliexpress.png)](https://s.click.aliexpress.com/e/_9haGaq)</td>
+    </tr>
+    <tr>
+      <td>**Motors** ||</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>NEMA14 48mm<br />LDO 35STH48-1684AH(VRN)</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>NEMA17 25mm with lead screw 200mm<br />LDO 42STH25-1004CL200ET(VRN)</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>**Toolplate**</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>120x120x8mm Voron V0 build plate</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>120x120mm 100W 24V heater mat</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>TR8x8 anti-backlash POM nut</td>
+      <td>soon</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>D16L18mm silicone buffer</td>
+      <td>soon</td>
+    </tr>
+  </tbody>
+</table>
+:ET

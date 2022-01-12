@@ -1,0 +1,68 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "http://localhost:4000/traquair/about/",
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Bill of materials",
+    "title": "Bill of materials",
+    "content": "| Amount | Item | Link | . | **Extrusions** || |   |   | . | 4 | 2020 aluminium extrusion 200mm | soon | . | 4 | 2020 aluminium extrusion 220mm | soon | . | 4 | 2040 aluminium extrusion 220mm | soon | . | **Linear motion** || |   |   | . | 2 | MGN7C linear rails 200mm | soon | . | 6 | MGN9C linear rails 200mm | soon | . | 4 | 5x70mm shaft | soon | . | 4 | L16D28 5x5mm corrugated coupler | [![AliExpress](asset/vendor/aliexpress.png)](https://s.click.aliexpress.com/e/_9RhBgO) [![AliExpress](asset/vendor/aliexpress.png)](https://s.click.aliexpress.com/e/_9haGaq) | . | **Motors** || |   |   | . | 4 | NEMA14 48mmLDO 35STH48-1684AH(VRN) | soon | . | 2 | NEMA17 25mm with lead screw 200mmLDO 42STH25-1004CL200ET(VRN) | soon | . | **Toolplate** |   |   | . | 1 | 120x120x8mm Voron V0 build plate | soon | . | 1 | 120x120mm 100W 24V heater mat | soon | . | 2 | TR8x8 anti-backlash POM nut | soon | . | 3 | D16L18mm silicone buffer | soon | . ",
+    "url": "http://localhost:4000/traquair/bom.html",
+    "relUrl": "/bom.html"
+  },"2": {
+    "doc": "Frame build instructions",
+    "title": "Frame build instructions",
+    "content": ". This is the basis of the printer. ",
+    "url": "http://localhost:4000/traquair/build/frame.html",
+    "relUrl": "/build/frame.html"
+  },"3": {
+    "doc": "Frame build instructions",
+    "title": "Required parts",
+    "content": "| Amount | Item |   | . | 4 | 2040 220mm | ![2040 200mm](../asset/extrusion/2040-220.png) | . | 4 | 2020 300mm | ![2040 200mm](../asset/extrusion/2020-300.png) | . | 16 | M6x16mm SBHS | ![M6x16 SBHS](../asset/fastener/iso7380/m6x16.png) | . ",
+    "url": "http://localhost:4000/traquair/build/frame.html#required-parts",
+    "relUrl": "/build/frame.html#required-parts"
+  },"4": {
+    "doc": "Frame build instructions",
+    "title": "Step 1: Drill blind holes",
+    "content": "Using the Blind Hole Drill Jig, we will drill one side of all four 2020 extrusions, both in front and on the sides. ",
+    "url": "http://localhost:4000/traquair/build/frame.html#step-1-drill-blind-holes",
+    "relUrl": "/build/frame.html#step-1-drill-blind-holes"
+  },"5": {
+    "doc": "Frame build instructions",
+    "title": "Step 2: Tap extrusions",
+    "content": "In order to be able to insert the socket head screws into the sides of the 2040 extrusions, the sides needs to be tapped with an M6 tap. ",
+    "url": "http://localhost:4000/traquair/build/frame.html#step-2-tap-extrusions",
+    "relUrl": "/build/frame.html#step-2-tap-extrusions"
+  },"6": {
+    "doc": "Frame build instructions",
+    "title": "Step 3: Bolt it together",
+    "content": "First, insert the M6 bolts into the 2040 holes you just tapped, then slide the bolt heads into the vertical 2020 extrusion and tighten them down. Make sure you keep the frame squared before tightening the bolts. ",
+    "url": "http://localhost:4000/traquair/build/frame.html#step-3-bolt-it-together",
+    "relUrl": "/build/frame.html#step-3-bolt-it-together"
+  },"7": {
+    "doc": "Build instructions",
+    "title": "Build instructions",
+    "content": " ",
+    "url": "http://localhost:4000/traquair/build/",
+    "relUrl": "/build/"
+  },"8": {
+    "doc": "Welcome",
+    "title": "Traquair",
+    "content": ". ",
+    "url": "http://localhost:4000/traquair/#traquair",
+    "relUrl": "/#traquair"
+  },"9": {
+    "doc": "Welcome",
+    "title": "About the project",
+    "content": "Traquair is a mini-sized crossed grantry 3D-printer with a build volume of 120x120x140mm. Inspired by other mini printers like the Voron V0, the Traquair is a desktop-sized 3D-printer with fast printing capabilities. ",
+    "url": "http://localhost:4000/traquair/#about-the-project",
+    "relUrl": "/#about-the-project"
+  },"10": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": " ",
+    "url": "http://localhost:4000/traquair/",
+    "relUrl": "/"
+  }
+}
