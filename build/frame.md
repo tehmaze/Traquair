@@ -17,11 +17,14 @@ This is the basis of the printer.
 | 4      | 2040 220mm | ![2040 200mm](../asset/extrusion/2040-220.png) |
 | 4      | 2020 300mm | ![2040 200mm](../asset/extrusion/2020-300.png) |
 | 16     | M6x16mm SBHS | ![M6x16 SBHS](../asset/fastener/iso7380/m6x16.png) |
+| 1      | Blind hole jig | ![Jig](../asset/part/blind_hole_jig.png) |
 
 ## Step 1: Drill blind holes
 
 Using the *Blind Hole Drill Jig*, we will drill one side of all four
 2020 extrusions, both in front and on the sides.
+
+![Drill hole using jig](../asset/part/blind_hole_drill.png)
 
 ## Step 2: Tap extrusions
 
@@ -35,3 +38,9 @@ the bolt heads into the vertical 2020 extrusion and tighten them down. Make
 sure you keep the frame squared before tightening the bolts.
 
 ![Frame joints](../asset/build/frame-joints.png)
+
+## Done
+
+![Frame](../asset/build/frame-done.png)
+
+You can now proceed to building the [bed frame](bed-frame.html).
