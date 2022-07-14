@@ -1,5 +1,7 @@
 # Traquair
 
+[![Discord Invite](https://discordapp.com/api/guilds/859029902648672256/widget.png?style=banner2)](https://discord.gg/9DxawPjju2)
+
 Project status: **beta**
 
 ![Image of Traquair](Image/Traquair.png)
